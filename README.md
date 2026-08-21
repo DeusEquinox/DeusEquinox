@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @DeusEquinox
-- 👀 I’m interested in Game Design
-- 🌱 I’m currently learning Unreal Engine 5 Blueprint, HTML, CSS and Javascript
-- 💞️ I’m looking to collaborate on Videogames
+- 👋 Hi, my name is Mpho Machailo
+- 👀 I am versed in SQL database development, ASP.Net MVC web app development and DevOps
+- 🌱 I’m currently learning Unreal Engine 5, C++
+- 💞️ I’m looking to work on Databases, web applications and videogames.
 - 📫 How to reach me Email: mphomachailo@gmail.com
 
 <!---
